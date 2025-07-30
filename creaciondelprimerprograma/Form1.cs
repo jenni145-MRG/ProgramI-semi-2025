@@ -16,5 +16,17 @@ namespace creaciondelprimerprograma
         {
             InitializeComponent();
         }
+
+        private void btn_Click(object sender, EventArgs e)
+        {
+            double num1, num2, respuesta;
+            num1=double.Parse(txtNum1.Text);
+
+            num2 = double.Parse(txtNum2.Text);
+             
+            respuesta = num1 + num2;
+
+            lblRespuesta.Text = "Respuesta " + respuesta;
+        }
     }
 }
