@@ -1,0 +1,11 @@
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\jueves21\jueves21\bin\Debug\jueves21.exe.config
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\jueves21\jueves21\bin\Debug\jueves21.exe
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\jueves21\jueves21\bin\Debug\jueves21.pdb
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\jueves21\jueves21\obj\Debug\jueves21.csproj.AssemblyReference.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\jueves21\jueves21\obj\Debug\jueves21.Form1.resources
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\jueves21\jueves21\obj\Debug\jueves21.Properties.Resources.resources
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\jueves21\jueves21\obj\Debug\jueves21.csproj.GenerateResource.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\jueves21\jueves21\obj\Debug\jueves21.csproj.CoreCompileInputs.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\jueves21\jueves21\obj\Debug\jueves21.exe
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\jueves21\jueves21\obj\Debug\jueves21.pdb
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\jueves21\jueves21\obj\Debug\jueves21.exe.config

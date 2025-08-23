@@ -1,0 +1,17 @@
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\obj\Debug\net8.0-windows\programacionpractica2.Form1.resources
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\obj\Debug\net8.0-windows\programacionpractica2.csproj.GenerateResource.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\obj\Debug\net8.0-windows\programacionpractica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\obj\Debug\net8.0-windows\programacionpractica2.AssemblyInfoInputs.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\obj\Debug\net8.0-windows\programacionpractica2.AssemblyInfo.cs
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\obj\Debug\net8.0-windows\programacionpractica2.csproj.CoreCompileInputs.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\obj\Debug\net8.0-windows\programacionpractica2.sourcelink.json
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\bin\Debug\net8.0-windows\programacionpractica2.exe
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\bin\Debug\net8.0-windows\programacionpractica2.deps.json
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\bin\Debug\net8.0-windows\programacionpractica2.runtimeconfig.json
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\bin\Debug\net8.0-windows\programacionpractica2.dll
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\bin\Debug\net8.0-windows\programacionpractica2.pdb
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\obj\Debug\net8.0-windows\programacionpractica2.dll
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\obj\Debug\net8.0-windows\refint\programacionpractica2.dll
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\obj\Debug\net8.0-windows\programacionpractica2.pdb
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\obj\Debug\net8.0-windows\programacionpractica2.genruntimeconfig.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\programacionpractica2\programacionpractica2\obj\Debug\net8.0-windows\ref\programacionpractica2.dll

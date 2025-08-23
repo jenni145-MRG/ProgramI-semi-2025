@@ -1,0 +1,11 @@
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cbxItems.resources

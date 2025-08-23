@@ -1,0 +1,11 @@
+C:\Users\maric\source\repos\ProgramI-semi-2025\programacionprimerproyecto\programacionprimerproyecto\bin\Debug\programacionprimerproyecto.exe.config
+C:\Users\maric\source\repos\ProgramI-semi-2025\programacionprimerproyecto\programacionprimerproyecto\bin\Debug\programacionprimerproyecto.exe
+C:\Users\maric\source\repos\ProgramI-semi-2025\programacionprimerproyecto\programacionprimerproyecto\bin\Debug\programacionprimerproyecto.pdb
+C:\Users\maric\source\repos\ProgramI-semi-2025\programacionprimerproyecto\programacionprimerproyecto\obj\Debug\programacionprimerproyecto.csproj.AssemblyReference.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\programacionprimerproyecto\programacionprimerproyecto\obj\Debug\programacionprimerproyecto.Form1.resources
+C:\Users\maric\source\repos\ProgramI-semi-2025\programacionprimerproyecto\programacionprimerproyecto\obj\Debug\programacionprimerproyecto.Properties.Resources.resources
+C:\Users\maric\source\repos\ProgramI-semi-2025\programacionprimerproyecto\programacionprimerproyecto\obj\Debug\programacionprimerproyecto.csproj.GenerateResource.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\programacionprimerproyecto\programacionprimerproyecto\obj\Debug\programacionprimerproyecto.csproj.CoreCompileInputs.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\programacionprimerproyecto\programacionprimerproyecto\obj\Debug\programacionprimerproyecto.exe
+C:\Users\maric\source\repos\ProgramI-semi-2025\programacionprimerproyecto\programacionprimerproyecto\obj\Debug\programacionprimerproyecto.pdb
+C:\Users\maric\source\repos\ProgramI-semi-2025\programacionprimerproyecto\programacionprimerproyecto\obj\Debug\programacionprimerproyecto.exe.config
