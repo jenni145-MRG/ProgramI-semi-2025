@@ -84,9 +84,9 @@
             this.lblRespuesta.AutoSize = true;
             this.lblRespuesta.Location = new System.Drawing.Point(244, 201);
             this.lblRespuesta.Name = "lblRespuesta";
-            this.lblRespuesta.Size = new System.Drawing.Size(76, 16);
+            this.lblRespuesta.Size = new System.Drawing.Size(73, 16);
             this.lblRespuesta.TabIndex = 5;
-            this.lblRespuesta.Text = "Respuesta:";
+            this.lblRespuesta.Text = "Respuesta";
             // 
             // Form1
             // 
