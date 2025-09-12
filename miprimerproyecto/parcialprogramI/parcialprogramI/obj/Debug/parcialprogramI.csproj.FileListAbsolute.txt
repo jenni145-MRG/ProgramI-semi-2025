@@ -1,0 +1,11 @@
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\parcialprogramI\parcialprogramI\obj\Debug\parcialprogramI.csproj.AssemblyReference.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\parcialprogramI\parcialprogramI\obj\Debug\parcialprogramI.Form1.resources
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\parcialprogramI\parcialprogramI\obj\Debug\parcialprogramI.Properties.Resources.resources
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\parcialprogramI\parcialprogramI\obj\Debug\parcialprogramI.csproj.GenerateResource.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\parcialprogramI\parcialprogramI\obj\Debug\parcialprogramI.csproj.CoreCompileInputs.cache
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\parcialprogramI\parcialprogramI\bin\Debug\parcialprogramI.exe.config
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\parcialprogramI\parcialprogramI\bin\Debug\parcialprogramI.exe
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\parcialprogramI\parcialprogramI\bin\Debug\parcialprogramI.pdb
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\parcialprogramI\parcialprogramI\obj\Debug\parcialprogramI.exe
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\parcialprogramI\parcialprogramI\obj\Debug\parcialprogramI.pdb
+C:\Users\maric\source\repos\ProgramI-semi-2025\miprimerproyecto\parcialprogramI\parcialprogramI\obj\Debug\parcialprogramI.exe.config
